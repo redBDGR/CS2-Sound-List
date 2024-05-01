@@ -14,6 +14,7 @@ Please note; I will be using [VPKEdit](https://developer.valvesoftware.com/wiki/
 3. Locate the .VPK package `game\csgo\pak01_dir.vpk`
 4. Find the "sounds" folder after the .vpk package has imported into VPKEdit
 5. Right click and select `Extract Folder...`
+
 ![image](https://github.com/redBDGR/CS2SoundList/assets/26995443/366bcef5-57ca-4b21-9e85-57ea74aa38c8)
 
 6. This will then create a new folder with all exported sound files within.
