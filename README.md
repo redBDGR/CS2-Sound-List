@@ -4,7 +4,7 @@ A complete list of CS2 sounds as of 1/5/2024.
 
 The primary use-case for this list is to be used for a refrence point when creating in-game binds to add additional sounds.
 
-# The Process
+# Export Process
 
 To export a updated list of sounds, the following process can be followed.
 Please note; I will be using [VPKEdit](https://developer.valvesoftware.com/wiki/VPKEdit) to extract the packaged game contents.
