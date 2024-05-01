@@ -1,8 +1,8 @@
 # CS2 Sounds List
 
-A complete list of CS2 sounds as of 1/5/2024.
+A complete list of CS2 sounds assets as of 1/5/2024.
 
-The primary use-case for this list is to be used for a refrence point when creating in-game binds to add additional sounds.
+The primary use-case for this list is to be used for a refrence point when creating in-game binds to add additional sounds or for servers owners/plugin developers to easily add sounds to their software.
 
 # Export Process
 
