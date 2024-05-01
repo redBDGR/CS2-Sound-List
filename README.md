@@ -12,6 +12,9 @@ Please note; I will be using [VPKEdit](https://developer.valvesoftware.com/wiki/
 1. Launch VPKEdit ![image](https://github.com/redBDGR/CS2SoundList/assets/26995443/f56ed96a-3d2b-481c-94be-1bfc2c8b0bf9)
 
 2. `File -> Open` and locate your CS2 game directory within steamapps folder `C:\ProgramFiles (x86)\Steam\steamapps\common\Counter-Strike Global Offensive`
+
+![image](https://github.com/redBDGR/CS2SoundList/assets/26995443/d8e9ec6b-d692-4c5a-b82b-09d9cae97e38)
+
 3. Locate the .VPK package `game\csgo\pak01_dir.vpk`
 4. Find the "sounds" folder after the .vpk package has imported into VPKEdit
 5. Right click and select `Extract Folder...`
