@@ -10,7 +10,7 @@ To export an updated list of sound directories, the following process can be fol
 Please note; I will be using [VPKEdit](https://developer.valvesoftware.com/wiki/VPKEdit) to extract the packaged game contents.
 
 1. Launch VPKEdit
-2. `File -> Open` and locate your CS2 game directory within steamapps folder (C:\ProgramFiles (x86)\Steam\steamapps\common\Counter-Strike Global Offensive).
+2. `File -> Open` and locate your CS2 game directory within steamapps folder `C:\ProgramFiles (x86)\Steam\steamapps\common\Counter-Strike Global Offensive`
 3. Locate the .VPK package `game\csgo\pak01_dir.vpk`
 4. Find the "sounds" folder after the .vpk package has imported into VPKEdit
 5. Right click and select `Extract Folder...`
