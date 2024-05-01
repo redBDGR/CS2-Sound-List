@@ -1,4 +1,4 @@
-# CS2 Sound List
+# CS2 Sounds List
 
 A complete list of CS2 sounds as of 1/5/2024.
 
@@ -22,3 +22,5 @@ Please note; I will be using [VPKEdit](https://developer.valvesoftware.com/wiki/
 ![image](https://github.com/redBDGR/CS2SoundList/assets/26995443/366bcef5-57ca-4b21-9e85-57ea74aa38c8)
 
 6. This will then create a new folder with all exported sound files within.
+
+I then use a python script to walk through all files in this directory and write the file names to a text file.
